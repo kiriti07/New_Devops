@@ -1,4 +1,4 @@
-Basic Questions
+Basic Questions in Devops Interviews
 
 1) DevOps ! How can you define it in your words ?
 
